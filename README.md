@@ -3,7 +3,9 @@
 A Flutter project which uses newapi.org API to get the data.
 
 
-This project is a starting point for a Flutter application.
+## App Gif
+
+![20-10-17-18-18-21](Assets/20-10-17-18-18-21.gif)
 
 
 
